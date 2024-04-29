@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **syntodevelopment@gmail.com**
 
-<h3 align="left">Connect me through:</h3>
+<h3 align="left">Contact me through:</h3>
 <p align="left">
 <a href="https://twitter.com/syntodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syntodev" height="30" width="40" /></a>
 <a href="https://discord.gg/syntodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="syntodev" height="30" width="40" /></a>
